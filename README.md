@@ -1,2 +1,2 @@
-# GInfo2
-GInfo merupakan sebuah aplikasi Android yang dibuat dengan bahasa pemrograman JAVA. Aplikasi ini menyediakan informasi seputar game seperti penjelasan singkat mengenai game tersebut dan juga system requirements nya.
+# GInfo
+GInfo is an Android app created using the JAVA programming language. This app provides information about games, including a brief description of the game and its system requirements.
